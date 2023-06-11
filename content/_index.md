@@ -43,17 +43,30 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 信息安全概述 [[notes/InfoSec-Overview|InfoSec-Overview]]
 
+安装渗透测试发行版 [[notes/Getting-Started-with-a-Pentest-Distro|Getting-Started-with-a-Pentest-Distro]]
+
+保持井井有条 [[notes/Stay-Organized|Stay-Organized]]
+
 常用术语 [[notes/Common-Terms|Common-Terms]]
 
 常用工具 [[notes/Common-Tools|Common-Tools]]
 
+服务扫描 [[notes/Service-Scanning|Service-Scanning]]
+
+公开漏洞利用 [[notes/Public Exploit|Public Exploit]]
+
+Shell 的种类 [[notes/Type-of-Shell|Type-of-Shell]]
+
+提权 [[notes/Privilege-Escalation|Privilege-Escalation]]
+
+文件传输 [[notes/File-Transferring|File-Transferring]]
 
 # 👍现存的优质知识库
 
 - [🌈 通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 - [产品沉思录精选](https://pmthinking.com/)
-- https://wintrysec.github.io/
-- https://ctf-wiki.org/
-- https://book.hacktricks.xyz/welcome/readme
-- https://github.com/SJTU-SCS/ctf
-- https://www.cybok.org/knowledgebase/
+- [项目主页 | 网络安全知识库](https://wintrysec.github.io/)
+- [简介 - CTF Wiki](https://ctf-wiki.org/)
+- [HackTricks - HackTricks](https://book.hacktricks.xyz/welcome/readme)
+- [School of Cyber Security, SJTU](https://github.com/SJTU-SCS)
+- [CyBOK – The Cyber Security Body of Knowledge v1.0](https://www.cybok.org/knowledgebase/)
