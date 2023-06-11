@@ -1,65 +1,65 @@
 [404_message]
-other = "Hey! You look a little lost. This page doesn't exist (or may be private)."
+other = "喔哦...... 你是不是迷路了呀..... (⌯' '⌯ ) 这个页面并不存在（也许它还未被发布）。"
 
 [404_back]
-other = "↳ Let's get you home."
+other = "↳ 回到主页"
 
 [all_posts]
-other = "All {{.Title}}"
+other = "所有 {{.Title}}"
 
 [last_updated]
-other = "Last updated"
+other = "最后更新于"
 
 [notes_count]
-other = "notes with this tag"
+other = "带有此标签的笔记"
 
 [first_10]
-other = "showing first 10 results"
+other = "正在展示前10个结果"
 
 [tag]
-other = "Tag"
+other = "标签"
 
 [backlinks]
-other = "Backlinks"
+other = "反向链接"
 
 [no_backlinks]
-other = "No backlinks found"
+other = "没有找到反向链接"
 
 [home]
-other = "Home"
+other = "主页"
 
 [light_mode]
-other = "Light Mode"
+other = "明亮模式"
 
 [dark_mode]
-other = "Dark Mode"
+other = "黑暗模式"
 
 [edit_source]
-other = "Edit Source"
+other = "编辑源码"
 
 [interactive_graph]
-other = "Interactive Graph"
+other = "互动图"
 
 [search]
-other = "Search"
+other = "搜索"
 
 [search_icon]
-other = "Search Icon"
+other = "搜索图标"
 
 [icon_search]
-other = "Icon to open search"
+other = "打开搜索图标"
 
 [recent_notes]
-other = "Recent Notes"
+other = "近期笔记"
 
 [first_3_notes]
-other = "first 3 {{ .notes }}"
+other = "前3个 {{ .notes }}"
 
 [search_for_something]
-other = "Search for something..."
+other = "进行搜索......"
 
 [toc]
-other = "Table of Contents"
+other = "目录"
 
 [copyright]
-other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+other = "由 {{ .name }} 用 <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a> 创造, © {{ .year }}"
