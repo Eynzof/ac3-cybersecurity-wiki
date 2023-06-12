@@ -1,5 +1,5 @@
-baseURL = "http://127.0.0.1/"
-languageCode = "en-us"
+baseURL = "http://localhost/"
+languageCode = "zh-cn"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
