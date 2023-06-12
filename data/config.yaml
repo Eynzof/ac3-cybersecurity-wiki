@@ -12,7 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/Eynzof/ac3-cybersecurity-wiki/tree/develop/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -23,7 +23,7 @@ description:
 page_title:
   "🪴 AC3 网络安全知识库"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: CTF
+    link: http://10.6.2.4/
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/Eynzof
