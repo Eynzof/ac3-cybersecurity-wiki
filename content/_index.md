@@ -2,31 +2,6 @@
 title: 🪴 AC3 网络安全知识库
 enableToc: false
 ---
-
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
-
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
-
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
-
-
 # 🎯 愿景和目标
 
 知识库是一个面向组织的知识管理系统。通过结构化沉淀高价值信息，形成组织完整的知识体系。通过便捷地分享和传播，轻松提升知识的流转效率，更好地成就组织和个人。
@@ -39,27 +14,27 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 # 🖥️ 「渗透测试入门」专题课
 
-课程简介 [[notes/Introducing-Pentest|Introducing-Pentest]]
+[[notes/Introducing Pentesting/渗透测试入门 Introducing Pentest|渗透测试入门 Introducing Pentest]]
 
-信息安全概述 [[notes/InfoSec-Overview|InfoSec-Overview]]
+[[notes/Introducing Pentesting/信息安全概述 InfoSec Overview|信息安全概述 InfoSec Overview]]
 
-安装渗透测试发行版 [[notes/Getting-Started-with-a-Pentest-Distro|Getting-Started-with-a-Pentest-Distro]]
+[[notes/Introducing Pentesting/安装渗透测试系统 Getting Started with a Pentest Distro|安装渗透测试系统 Getting Started with a Pentest Distro]]
 
-保持井井有条 [[notes/Stay-Organized|Stay-Organized]]
+[[notes/Introducing Pentesting/保持井井有条 Stay-Organized|保持井井有条 Stay-Organized]]
 
-常用术语 [[notes/Common-Terms|Common-Terms]]
+[[notes/Introducing Pentesting/常用术语 Common Terms|常用术语 Common Terms]]
 
-常用工具 [[notes/Common-Tools|Common-Tools]]
+[[notes/Introducing Pentesting/常用工具 Common Tools|常用工具 Common Tools]]
 
-服务扫描 [[notes/Service-Scanning|Service-Scanning]]
+[[notes/Introducing Pentesting/服务扫描 Service Scanning|服务扫描 Service Scanning]]
 
-公开漏洞利用 [[notes/Public Exploit|Public Exploit]]
+[[notes/Introducing Pentesting/公开漏洞利用 Public Exploit|公开漏洞利用 Public Exploit]]
 
-Shell 的种类 [[notes/Type-of-Shell|Type-of-Shell]]
+[[notes/Introducing Pentesting/Shell 的种类 Type of Shell|Shell 的种类 Type of Shell]]
 
-提权 [[notes/Privilege-Escalation|Privilege-Escalation]]
+[[notes/Introducing Pentesting/提权 Privilege Escalation|提权 Privilege Escalation]]
 
-文件传输 [[notes/File-Transferring|File-Transferring]]
+[[notes/Introducing Pentesting/文件传输 File Transferring|文件传输 File Transferring]]
 
 # 👍现存的优质知识库
 
