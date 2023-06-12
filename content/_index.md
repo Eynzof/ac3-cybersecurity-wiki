@@ -14,27 +14,27 @@ enableToc: false
 
 # 🖥️ 「渗透测试入门」专题课
 
-[[notes/Introducing Pentesting/渗透测试入门 Introducing Pentest|渗透测试入门 Introducing Pentest]]
+[[notes/渗透测试入门 Introducing Pentest|渗透测试入门 Introducing Pentest]]
 
-[[notes/Introducing Pentesting/信息安全概述 InfoSec Overview|信息安全概述 InfoSec Overview]]
+[[notes/信息安全概述 InfoSec Overview|信息安全概述 InfoSec Overview]]
 
-[[notes/Introducing Pentesting/安装渗透测试系统 Getting Started with a Pentest Distro|安装渗透测试系统 Getting Started with a Pentest Distro]]
+[[notes/安装渗透测试系统 Getting Started with a Pentest Distro|安装渗透测试系统 Getting Started with a Pentest Distro]]
 
-[[notes/Introducing Pentesting/保持井井有条 Stay-Organized|保持井井有条 Stay-Organized]]
+[[notes/保持井井有条 Stay-Organized|保持井井有条 Stay-Organized]]
 
-[[notes/Introducing Pentesting/常用术语 Common Terms|常用术语 Common Terms]]
+[[notes/常用术语 Common Terms|常用术语 Common Terms]]
 
-[[notes/Introducing Pentesting/常用工具 Common Tools|常用工具 Common Tools]]
+[[notes/常用工具 Common Tools|常用工具 Common Tools]]
 
-[[notes/Introducing Pentesting/服务扫描 Service Scanning|服务扫描 Service Scanning]]
+[[notes/服务扫描 Service Scanning|服务扫描 Service Scanning]]
 
-[[notes/Introducing Pentesting/公开漏洞利用 Public Exploit|公开漏洞利用 Public Exploit]]
+[[notes/公开漏洞利用 Public Exploit|公开漏洞利用 Public Exploit]]
 
-[[notes/Introducing Pentesting/Shell 的种类 Type of Shell|Shell 的种类 Type of Shell]]
+[[notes/Shell 的种类 Type of Shell|Shell 的种类 Type of Shell]]
 
-[[notes/Introducing Pentesting/提权 Privilege Escalation|提权 Privilege Escalation]]
+[[notes/提权 Privilege Escalation|提权 Privilege Escalation]]
 
-[[notes/Introducing Pentesting/文件传输 File Transferring|文件传输 File Transferring]]
+[[notes/文件传输 File Transferring|文件传输 File Transferring]]
 
 # 👍现存的优质知识库
 
