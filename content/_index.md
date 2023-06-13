@@ -36,6 +36,8 @@ enableToc: false
 
 [[notes/Introducing Pentesting/文件传输 File Transferring|文件传输 File Transferring]]
 
+[[notes/渗透测试入门-指令集|渗透测试入门-指令集]]
+
 # 👍现存的优质知识库
 
 - [🌈 通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
