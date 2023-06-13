@@ -20,7 +20,7 @@ enableToc: false
 
 [[notes/Introducing Pentesting/安装渗透测试系统 Getting Started with a Pentest Distro|安装渗透测试系统 Getting Started with a Pentest Distro]]
 
-[[notes/Introducing Pentesting/保持井井有条 Stay-Organized|保持井井有条 Stay-Organized]]
+[[notes/Introducing Pentesting/保持井井有条 Stay Organized|保持井井有条 Stay Organized]]
 
 [[notes/Introducing Pentesting/常用术语 Common Terms|常用术语 Common Terms]]
 
