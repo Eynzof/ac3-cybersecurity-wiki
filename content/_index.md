@@ -47,3 +47,9 @@ enableToc: false
 - [HackTricks - HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [School of Cyber Security, SJTU](https://github.com/SJTU-SCS)
 - [CyBOK – The Cyber Security Body of Knowledge v1.0](https://www.cybok.org/knowledgebase/)
+
+
+# 📑博客
+
+[[本知识库项目的安装配置指南]]
+
