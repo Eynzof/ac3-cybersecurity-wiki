@@ -40,16 +40,21 @@ enableToc: false
 
 # 👍现存的优质知识库
 
-- [🌈 通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
-- [产品沉思录精选](https://pmthinking.com/)
-- [项目主页 | 网络安全知识库](https://wintrysec.github.io/)
-- [简介 - CTF Wiki](https://ctf-wiki.org/)
-- [HackTricks - HackTricks](https://book.hacktricks.xyz/welcome/readme)
-- [School of Cyber Security, SJTU](https://github.com/SJTU-SCS)
-- [CyBOK – The Cyber Security Body of Knowledge v1.0](https://www.cybok.org/knowledgebase/)
+[🌈 通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
+[产品沉思录精选](https://pmthinking.com/)
+
+[项目主页 | 网络安全知识库](https://wintrysec.github.io/)
+
+[简介 - CTF Wiki](https://ctf-wiki.org/)
+
+[HackTricks - HackTricks](https://book.hacktricks.xyz/welcome/readme)
+
+[School of Cyber Security, SJTU](https://github.com/SJTU-SCS)
+
+[CyBOK – The Cyber Security Body of Knowledge v1.0](https://www.cybok.org/knowledgebase/)
 
 # 📑博客
 
-[[本知识库项目的安装配置指南]]
+[[notes/本知识库项目的安装配置指南|本知识库项目的安装配置指南]]
 
