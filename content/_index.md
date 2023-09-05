@@ -58,3 +58,4 @@ enableToc: false
 
 [[notes/本知识库项目的安装配置指南|本知识库项目的安装配置指南]]
 
+[[notes/CTF平台使用指南|CTF平台使用指南]]
